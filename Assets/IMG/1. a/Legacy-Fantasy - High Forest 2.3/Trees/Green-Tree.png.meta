@@ -1,0 +1,1614 @@
+fileFormatVersion: 2
+guid: de3af70c9fffb20459de4737d8c0719b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4505589416316558090
+    second: Green-Tree_0_0
+  - first:
+      213: 8990887312558771724
+    second: Green-Tree_1_0
+  - first:
+      213: 6190562450813690326
+    second: Green-Tree_2_0
+  - first:
+      213: 2328177470924891666
+    second: Green-Tree_3_0
+  - first:
+      213: 2910205401220742700
+    second: Green-Tree_4_0
+  - first:
+      213: 6195263917045255706
+    second: Green-Tree_4_1
+  - first:
+      213: -9016929163594189554
+    second: Green-Tree_4_2
+  - first:
+      213: -31062952791838676
+    second: Green-Tree_4_3
+  - first:
+      213: 2200941503755285903
+    second: Green-Tree_4_4
+  - first:
+      213: -4803624507418344044
+    second: Green-Tree_4_5
+  - first:
+      213: 1766848293950217021
+    second: Green-Tree_3_1
+  - first:
+      213: -5851167314629650372
+    second: Green-Tree_3_2
+  - first:
+      213: 1925164392627312254
+    second: Green-Tree_3_3
+  - first:
+      213: 333178812569478896
+    second: Green-Tree_3_4
+  - first:
+      213: 5359462455657059272
+    second: Green-Tree_3_5
+  - first:
+      213: 3660808892840888148
+    second: Green-Tree_2_1
+  - first:
+      213: -8857576566186868238
+    second: Green-Tree_2_2
+  - first:
+      213: -3682935995729894941
+    second: Green-Tree_2_3
+  - first:
+      213: 7311527222299654207
+    second: Green-Tree_2_4
+  - first:
+      213: 1201365210938261888
+    second: Green-Tree_2_6
+  - first:
+      213: -2496261891859208736
+    second: Green-Tree_1_1
+  - first:
+      213: 1857459211055182883
+    second: Green-Tree_1_2
+  - first:
+      213: 3509999809733252299
+    second: Green-Tree_1_3
+  - first:
+      213: -7344631722222973442
+    second: Green-Tree_1_4
+  - first:
+      213: -6311556013058718886
+    second: Green-Tree_1_5
+  - first:
+      213: -5221737553385681947
+    second: Green-Tree_1_6
+  - first:
+      213: 7163679839699567147
+    second: Green-Tree_1_7
+  - first:
+      213: -1849991199908312542
+    second: Green-Tree_1_8
+  - first:
+      213: -663851516312444667
+    second: Green-Tree_1_9
+  - first:
+      213: -2371782439766535071
+    second: Green-Tree_1_10
+  - first:
+      213: 6800671023066170386
+    second: Green-Tree_1_11
+  - first:
+      213: -3386438897309600556
+    second: Green-Tree_0_11
+  - first:
+      213: -5003325022298686628
+    second: Green-Tree_0_1
+  - first:
+      213: -650354231734195904
+    second: Green-Tree_0_2
+  - first:
+      213: 5130714037317717951
+    second: Green-Tree_0_3
+  - first:
+      213: 2754840749592405455
+    second: Green-Tree_0_4
+  - first:
+      213: -1633438871476091546
+    second: Green-Tree_0_5
+  - first:
+      213: -4224626461098735712
+    second: Green-Tree_0_6
+  - first:
+      213: -7983460392233130646
+    second: Green-Tree_0_7
+  - first:
+      213: -1443399904030088121
+    second: Green-Tree_0_8
+  - first:
+      213: 2672839972515436780
+    second: Green-Tree_0_9
+  - first:
+      213: 817274963560240308
+    second: Green-Tree_0_10
+  - first:
+      213: 3303889656550929095
+    second: Green-Tree_2_5
+  - first:
+      213: -7225393486152617579
+    second: Green-Tree_2_7
+  - first:
+      213: -8699299993071780742
+    second: Green-Tree_2_8
+  - first:
+      213: -179276131062675582
+    second: Green-Tree_2_9
+  - first:
+      213: 4436484216450569269
+    second: Green-Tree_2_10
+  - first:
+      213: -1145835485838171800
+    second: Green-Tree_2_11
+  - first:
+      213: -7045292117627867379
+    second: Green-Tree_3_6
+  - first:
+      213: 6483920460939384809
+    second: Green-Tree_3_7
+  - first:
+      213: 658269037843875289
+    second: Green-Tree_3_8
+  - first:
+      213: 2800407621920967537
+    second: Green-Tree_3_9
+  - first:
+      213: -4574441631152464126
+    second: Green-Tree_3_10
+  - first:
+      213: -5641685365587010725
+    second: Green-Tree_3_11
+  - first:
+      213: -4962822213020024697
+    second: Green-Tree_4_6
+  - first:
+      213: 6256450797669970442
+    second: Green-Tree_4_7
+  - first:
+      213: 3465516175922493206
+    second: Green-Tree_4_8
+  - first:
+      213: -8954634787232611343
+    second: Green-Tree_4_9
+  - first:
+      213: 6595515755775556092
+    second: Green-Tree_4_10
+  - first:
+      213: 2964251599198314608
+    second: Green-Tree_4_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Green-Tree_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 107
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f421b82c4ee871c0800000000000000
+      internalID: -4505589416316558090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_1_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 495
+        width: 108
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ec1a0006c06cc70800000000000000
+      internalID: 8990887312558771724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 273
+        width: 92
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d12f9000cb49e550800000000000000
+      internalID: 6190562450813690326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_3_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 112
+        width: 89
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216ab8813195f4020800000000000000
+      internalID: 2328177470924891666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_4_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 71
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e7f2bb460236820800000000000000
+      internalID: 2910205401220742700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_4_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 0
+        width: 71
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e074965bff9f550800000000000000
+      internalID: 6195263917045255706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_4_2
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 71
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05bb1f03be6dd280800000000000000
+      internalID: -9016929163594189554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_4_3
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 71
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20fa25b864a19ff0800000000000000
+      internalID: -31062952791838676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_4_4
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 71
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f857fb6f2a05b8e10800000000000000
+      internalID: 2200941503755285903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_4_5
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 0
+        width: 71
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49508f016f8165db0800000000000000
+      internalID: -4803624507418344044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_3_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 112
+        width: 89
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b58e4892b158810800000000000000
+      internalID: 1766848293950217021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_3_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 112
+        width: 89
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c389f12045a7ccea0800000000000000
+      internalID: -5851167314629650372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_3_3
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 112
+        width: 89
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7618cca0de87ba10800000000000000
+      internalID: 1925164392627312254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_3_4
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 113
+        width: 89
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6e3e16d50bf9400800000000000000
+      internalID: 333178812569478896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_3_5
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 112
+        width: 89
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c35b7035b2a06a40800000000000000
+      internalID: 5359462455657059272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_2_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 273
+        width: 92
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4574f50da4ecdc230800000000000000
+      internalID: 3660808892840888148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_2_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 273
+        width: 92
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f18b91ea01931580800000000000000
+      internalID: -8857576566186868238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_2_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 272
+        width: 92
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e12504993593ecc0800000000000000
+      internalID: -3682935995729894941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_2_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 272
+        width: 88
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38f4c24543c77560800000000000000
+      internalID: 7311527222299654207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_2_6
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 272
+        width: 88
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081cc735b4b1ca010800000000000000
+      internalID: 1201365210938261888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_1_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 496
+        width: 108
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5236df80f7b5dd0800000000000000
+      internalID: -2496261891859208736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_1_2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 496
+        width: 108
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324b8bbaf4507c910800000000000000
+      internalID: 1857459211055182883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_1_3
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 496
+        width: 108
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4d6dcea3606b030800000000000000
+      internalID: 3509999809733252299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_1_4
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 496
+        width: 108
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd85d6bc50a21a90800000000000000
+      internalID: -7344631722222973442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_1_5
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 497
+        width: 108
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5387a50f39d868a0800000000000000
+      internalID: -6311556013058718886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_1_6
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 497
+        width: 108
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb01247c59a887b0800000000000000
+      internalID: -5221737553385681947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_1_7
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 497
+        width: 108
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b228be10cd08a6360800000000000000
+      internalID: 7163679839699567147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_1_8
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 498
+        width: 108
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22acddb2ec28356e0800000000000000
+      internalID: -1849991199908312542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_1_9
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 497
+        width: 108
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501a79a209689c6f0800000000000000
+      internalID: -663851516312444667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_1_10
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 497
+        width: 108
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164d431ff6cb51fd0800000000000000
+      internalID: -2371782439766535071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_1_11
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 497
+        width: 108
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214c6249346d06e50800000000000000
+      internalID: 6800671023066170386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_0_11
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 832
+        width: 107
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4bb48d3c3f001d0800000000000000
+      internalID: -3386438897309600556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_0_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 832
+        width: 107
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b3016a66e909ab0800000000000000
+      internalID: -5003325022298686628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_0_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 832
+        width: 107
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049af4f954a79f6f0800000000000000
+      internalID: -650354231734195904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_0_3
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 832
+        width: 107
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfce66bb35f33740800000000000000
+      internalID: 5130714037317717951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_0_4
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 832
+        width: 107
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5e934e0192b3620800000000000000
+      internalID: 2754840749592405455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_0_5
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 832
+        width: 107
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6654a5f200cd459e0800000000000000
+      internalID: -1633438871476091546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_0_6
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 832
+        width: 107
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a78e7ddd9c1f55c0800000000000000
+      internalID: -4224626461098735712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_0_7
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 832
+        width: 107
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a652b8a421d053190800000000000000
+      internalID: -7983460392233130646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_0_8
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 832
+        width: 107
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744247b4f6308fbe0800000000000000
+      internalID: -1443399904030088121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_0_9
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 832
+        width: 107
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce85f3f2bc5d71520800000000000000
+      internalID: 2672839972515436780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_0_10
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 832
+        width: 107
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b414decf3b875b00800000000000000
+      internalID: 817274963560240308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_2_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 272
+        width: 88
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c23ecb4326c9dd20800000000000000
+      internalID: 3303889656550929095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_2_7
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 272
+        width: 88
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591b377f7ee3abb90800000000000000
+      internalID: -7225393486152617579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_2_8
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 272
+        width: 88
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cf5664fb0e54780800000000000000
+      internalID: -8699299993071780742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_2_9
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 272
+        width: 88
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2878d430f45138df0800000000000000
+      internalID: -179276131062675582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_2_10
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 272
+        width: 88
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534d92da3ee819d30800000000000000
+      internalID: 4436484216450569269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_2_11
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 272
+        width: 88
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861249f42bc2910f0800000000000000
+      internalID: -1145835485838171800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_3_6
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 112
+        width: 89
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f6ee585281a3e90800000000000000
+      internalID: -7045292117627867379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_3_7
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 112
+        width: 89
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7dd225e438bf950800000000000000
+      internalID: 6483920460939384809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_3_8
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 112
+        width: 89
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d58257c334a22900800000000000000
+      internalID: 658269037843875289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_3_9
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 113
+        width: 89
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b45ea15eb0dd620800000000000000
+      internalID: 2800407621920967537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_3_10
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 112
+        width: 89
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f1669a2915480c0800000000000000
+      internalID: -4574441631152464126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_3_11
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 112
+        width: 89
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b9aa90d05b4b1b0800000000000000
+      internalID: -5641685365587010725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_4_6
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 0
+        width: 71
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780068dcd73802bb0800000000000000
+      internalID: -4962822213020024697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_4_7
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 0
+        width: 71
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02f3d53ad063d650800000000000000
+      internalID: 6256450797669970442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_4_8
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 0
+        width: 71
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617fa35d99cf71030800000000000000
+      internalID: 3465516175922493206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_4_9
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 0
+        width: 71
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f305adca1fbab380800000000000000
+      internalID: -8954634787232611343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_4_10
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 0
+        width: 71
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf97e75a2aaf78b50800000000000000
+      internalID: 6595515755775556092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green-Tree_4_11
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 0
+        width: 71
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070691bcf13232920800000000000000
+      internalID: 2964251599198314608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Green-Tree_0_0: -4505589416316558090
+      Green-Tree_0_1: -5003325022298686628
+      Green-Tree_0_10: 817274963560240308
+      Green-Tree_0_11: -3386438897309600556
+      Green-Tree_0_2: -650354231734195904
+      Green-Tree_0_3: 5130714037317717951
+      Green-Tree_0_4: 2754840749592405455
+      Green-Tree_0_5: -1633438871476091546
+      Green-Tree_0_6: -4224626461098735712
+      Green-Tree_0_7: -7983460392233130646
+      Green-Tree_0_8: -1443399904030088121
+      Green-Tree_0_9: 2672839972515436780
+      Green-Tree_1_0: 8990887312558771724
+      Green-Tree_1_1: -2496261891859208736
+      Green-Tree_1_10: -2371782439766535071
+      Green-Tree_1_11: 6800671023066170386
+      Green-Tree_1_2: 1857459211055182883
+      Green-Tree_1_3: 3509999809733252299
+      Green-Tree_1_4: -7344631722222973442
+      Green-Tree_1_5: -6311556013058718886
+      Green-Tree_1_6: -5221737553385681947
+      Green-Tree_1_7: 7163679839699567147
+      Green-Tree_1_8: -1849991199908312542
+      Green-Tree_1_9: -663851516312444667
+      Green-Tree_2_0: 6190562450813690326
+      Green-Tree_2_1: 3660808892840888148
+      Green-Tree_2_10: 4436484216450569269
+      Green-Tree_2_11: -1145835485838171800
+      Green-Tree_2_2: -8857576566186868238
+      Green-Tree_2_3: -3682935995729894941
+      Green-Tree_2_4: 7311527222299654207
+      Green-Tree_2_5: 3303889656550929095
+      Green-Tree_2_6: 1201365210938261888
+      Green-Tree_2_7: -7225393486152617579
+      Green-Tree_2_8: -8699299993071780742
+      Green-Tree_2_9: -179276131062675582
+      Green-Tree_3_0: 2328177470924891666
+      Green-Tree_3_1: 1766848293950217021
+      Green-Tree_3_10: -4574441631152464126
+      Green-Tree_3_11: -5641685365587010725
+      Green-Tree_3_2: -5851167314629650372
+      Green-Tree_3_3: 1925164392627312254
+      Green-Tree_3_4: 333178812569478896
+      Green-Tree_3_5: 5359462455657059272
+      Green-Tree_3_6: -7045292117627867379
+      Green-Tree_3_7: 6483920460939384809
+      Green-Tree_3_8: 658269037843875289
+      Green-Tree_3_9: 2800407621920967537
+      Green-Tree_4_0: 2910205401220742700
+      Green-Tree_4_1: 6195263917045255706
+      Green-Tree_4_10: 6595515755775556092
+      Green-Tree_4_11: 2964251599198314608
+      Green-Tree_4_2: -9016929163594189554
+      Green-Tree_4_3: -31062952791838676
+      Green-Tree_4_4: 2200941503755285903
+      Green-Tree_4_5: -4803624507418344044
+      Green-Tree_4_6: -4962822213020024697
+      Green-Tree_4_7: 6256450797669970442
+      Green-Tree_4_8: 3465516175922493206
+      Green-Tree_4_9: -8954634787232611343
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

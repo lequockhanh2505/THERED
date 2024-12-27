@@ -1,0 +1,1114 @@
+fileFormatVersion: 2
+guid: 13b162177d17e80499bac7f0f0c28e6a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6066692200883138669
+    second: Gipsy_0
+  - first:
+      213: 907426263590134830
+    second: Gipsy_1
+  - first:
+      213: -6312066075596668877
+    second: Gipsy_2
+  - first:
+      213: 8731843830030831777
+    second: Gipsy_3
+  - first:
+      213: -2758449975326741381
+    second: Gipsy_4
+  - first:
+      213: 8743824128687519970
+    second: Gipsy_5
+  - first:
+      213: 6890650154193961025
+    second: Gipsy_6
+  - first:
+      213: -5806740285034056982
+    second: Gipsy_7
+  - first:
+      213: 2964759613342356473
+    second: Gipsy_8
+  - first:
+      213: 2494097750962214004
+    second: Gipsy_9
+  - first:
+      213: 8463483561114845708
+    second: Gipsy_10
+  - first:
+      213: 5624450711639403056
+    second: Gipsy_11
+  - first:
+      213: -3668439711164381148
+    second: Gipsy_12
+  - first:
+      213: 9177021936485142290
+    second: Gipsy_13
+  - first:
+      213: -673299296211706407
+    second: Gipsy_14
+  - first:
+      213: 2312795221118095946
+    second: Gipsy_15
+  - first:
+      213: -2150178607161428549
+    second: Gipsy_16
+  - first:
+      213: -778905504966798217
+    second: Gipsy_17
+  - first:
+      213: 4659804031647518273
+    second: Gipsy_18
+  - first:
+      213: -8698873395926308127
+    second: Gipsy_19
+  - first:
+      213: -4251027421304451037
+    second: Gipsy_20
+  - first:
+      213: -6208479933817142810
+    second: Gipsy_21
+  - first:
+      213: -4018353599356174448
+    second: Gipsy_22
+  - first:
+      213: -3317904607396611285
+    second: Gipsy_23
+  - first:
+      213: 6506023208895058456
+    second: Gipsy_24
+  - first:
+      213: 8303033498234866899
+    second: Gipsy_25
+  - first:
+      213: -1760327089084641510
+    second: Gipsy_26
+  - first:
+      213: 1674351358820577573
+    second: Gipsy_27
+  - first:
+      213: -5801869213990896361
+    second: Gipsy_28
+  - first:
+      213: -3428894028400147352
+    second: Gipsy_29
+  - first:
+      213: -7680053914801093835
+    second: Gipsy_30
+  - first:
+      213: -437425824942486613
+    second: Gipsy_31
+  - first:
+      213: -579265723595003844
+    second: Gipsy_32
+  - first:
+      213: -8482840160945676498
+    second: Gipsy_33
+  - first:
+      213: -7405068243548693133
+    second: Gipsy_34
+  - first:
+      213: -7182024830863931089
+    second: Gipsy_35
+  - first:
+      213: 1437951422441178588
+    second: Gipsy_36
+  - first:
+      213: 933923388044736236
+    second: Gipsy_37
+  - first:
+      213: -558662027238298924
+    second: Gipsy_38
+  - first:
+      213: 4999372019628307617
+    second: Gipsy_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gipsy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60b54bf968313450800000000000000
+      internalID: 6066692200883138669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gipsy_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2466250163d79c00800000000000000
+      internalID: 907426263590134830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gipsy_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3304445d8590768a0800000000000000
+      internalID: -6312066075596668877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gipsy_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a09c2b33bdbd2970800000000000000
+      internalID: 8731843830030831777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gipsy_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ce6f1cc5408b9d0800000000000000
+      internalID: -2758449975326741381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gipsy_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8b8e0e7bd485970800000000000000
+      internalID: 8743824128687519970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gipsy_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140c8389ec180af50800000000000000
+      internalID: 6890650154193961025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gipsy_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae23897e9705a6fa0800000000000000
+      internalID: -5806740285034056982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gipsy_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f312bd0921f42920800000000000000
+      internalID: 2964759613342356473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gipsy_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4741431b0b0dc9220800000000000000
+      internalID: 2494097750962214004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gipsy_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02cb961575547570800000000000000
+      internalID: 8463483561114845708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gipsy_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03aa5f36f101e0e40800000000000000
+      internalID: 5624450711639403056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gipsy_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4284c18d485171dc0800000000000000
+      internalID: -3668439711164381148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gipsy_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f0a2c44d45b5f70800000000000000
+      internalID: 9177021936485142290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gipsy_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 240
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddd7cd7bd5f7a6f0800000000000000
+      internalID: -673299296211706407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gipsy_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 240
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4217f8fff2b81020800000000000000
+      internalID: 2312795221118095946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gipsy_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5bf7ce2f70922e0800000000000000
+      internalID: -2150178607161428549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gipsy_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7749bdee195c035f0800000000000000
+      internalID: -778905504966798217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gipsy_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e884df313faa040800000000000000
+      internalID: 4659804031647518273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gipsy_19
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea67b92cb4674780800000000000000
+      internalID: -8698873395926308127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gipsy_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32014be45115105c0800000000000000
+      internalID: -4251027421304451037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gipsy_21
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 160
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e140b5e46c07d9a0800000000000000
+      internalID: -6208479933817142810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gipsy_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f767801b0fb38c0800000000000000
+      internalID: -4018353599356174448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gipsy_23
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 160
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b3e7da65f64f1d0800000000000000
+      internalID: -3317904607396611285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gipsy_24
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 160
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81213aa53a90a4a50800000000000000
+      internalID: 6506023208895058456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gipsy_25
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 160
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc457ca9fc4a3370800000000000000
+      internalID: 8303033498234866899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gipsy_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fcc9ec6df0297e0800000000000000
+      internalID: -1760327089084641510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gipsy_27
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52171b390bd7c3710800000000000000
+      internalID: 1674351358820577573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gipsy_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d3cc280be9b7fa0800000000000000
+      internalID: -5801869213990896361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gipsy_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86440c85c0f1a60d0800000000000000
+      internalID: -3428894028400147352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gipsy_30
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 80
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533ce68b7a7fa6590800000000000000
+      internalID: -7680053914801093835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gipsy_31
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 80
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab88b0a783fde9f0800000000000000
+      internalID: -437425824942486613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gipsy_32
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 80
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c386f8ab4e806f7f0800000000000000
+      internalID: -579265723595003844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gipsy_33
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 80
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f5a6051d5e64a80800000000000000
+      internalID: -8482840160945676498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gipsy_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d11cd8aa9eb3990800000000000000
+      internalID: -7405068243548693133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gipsy_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f290254e772545c90800000000000000
+      internalID: -7182024830863931089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gipsy_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5cfda3331a4f310800000000000000
+      internalID: 1437951422441178588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gipsy_37
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6f5df8f56f5fc00800000000000000
+      internalID: 933923388044736236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gipsy_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da26fc98db3f38f0800000000000000
+      internalID: -558662027238298924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gipsy_39
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4f8f13d56516540800000000000000
+      internalID: 4999372019628307617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Gipsy_0: 6066692200883138669
+      Gipsy_1: 907426263590134830
+      Gipsy_10: 8463483561114845708
+      Gipsy_11: 5624450711639403056
+      Gipsy_12: -3668439711164381148
+      Gipsy_13: 9177021936485142290
+      Gipsy_14: -673299296211706407
+      Gipsy_15: 2312795221118095946
+      Gipsy_16: -2150178607161428549
+      Gipsy_17: -778905504966798217
+      Gipsy_18: 4659804031647518273
+      Gipsy_19: -8698873395926308127
+      Gipsy_2: -6312066075596668877
+      Gipsy_20: -4251027421304451037
+      Gipsy_21: -6208479933817142810
+      Gipsy_22: -4018353599356174448
+      Gipsy_23: -3317904607396611285
+      Gipsy_24: 6506023208895058456
+      Gipsy_25: 8303033498234866899
+      Gipsy_26: -1760327089084641510
+      Gipsy_27: 1674351358820577573
+      Gipsy_28: -5801869213990896361
+      Gipsy_29: -3428894028400147352
+      Gipsy_3: 8731843830030831777
+      Gipsy_30: -7680053914801093835
+      Gipsy_31: -437425824942486613
+      Gipsy_32: -579265723595003844
+      Gipsy_33: -8482840160945676498
+      Gipsy_34: -7405068243548693133
+      Gipsy_35: -7182024830863931089
+      Gipsy_36: 1437951422441178588
+      Gipsy_37: 933923388044736236
+      Gipsy_38: -558662027238298924
+      Gipsy_39: 4999372019628307617
+      Gipsy_4: -2758449975326741381
+      Gipsy_5: 8743824128687519970
+      Gipsy_6: 6890650154193961025
+      Gipsy_7: -5806740285034056982
+      Gipsy_8: 2964759613342356473
+      Gipsy_9: 2494097750962214004
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
